@@ -18,6 +18,7 @@
     <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" />
     <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
     <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
+    <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" />
     <img src="https://skillicons.dev/icons?i=react" alt="React" />
     <img src="https://skillicons.dev/icons?i=django" alt="Django" />
     <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
@@ -27,6 +28,11 @@
     <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
     <img src="https://skillicons.dev/icons?i=git" alt="Git" />
     <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
+    <img src="https://skillicons.dev/icons?i=windows" alt="Windows" />
+    <img src="https://skillicons.dev/icons?i=postman" alt="Postman" />
+    <img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" />
+    
+
   </p>
   
 </div>
