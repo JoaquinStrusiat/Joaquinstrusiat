@@ -11,7 +11,7 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
   <H3>About me</H3>
-  <p>I am a student of the university degree in programming at the National Technological Faculty in Argentina. I started developing front-end with some web applications and I am currently expanding my knowledge in back-end and data analysis by implementing servers with Rest-Api services and databases.</p>
+  <p>My name is Pablo Joaquin Strusiat, and I am a programming student at the National Technological University in Argentina. I started developing front-end with some web applications, and I am currently expanding my knowledge in data analysis and back-end by implementing Rest-API services and databases.</p>
 
  
   <h3>Technologies That I Know </h3>
@@ -34,6 +34,11 @@
     <img src="https://skillicons.dev/icons?i=postman" alt="Postman" />
   </p>
 </div>
+
+## Some personal projects
+<li><a href="https://js-fusion-tech.vercel.app"><strong>E-commerce with React</strong></a></li>
+<li><a href="https://www.youtube.com/watch?v=8UajyIn-yr8&t=178s"><strong>Final Project Informatorio 2023</strong></a></li>
+
 
 ## Statical Data
 <div align="center">
