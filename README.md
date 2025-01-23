@@ -22,17 +22,16 @@
     <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" />
     <img src="https://skillicons.dev/icons?i=react" alt="React" />
     <img src="https://skillicons.dev/icons?i=vite" alt="Vite" />
-    <img src="https://skillicons.dev/icons?i=django" alt="Django" />
     <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
-    <img src="https://skillicons.dev/icons?i=graphql" alt="Node.js" />
-    <img src="https://skillicons.dev/icons?i=python" alt="Python" />
-    <img src="https://skillicons.dev/icons?i=java" alt="Java" />
     <img src="https://skillicons.dev/icons?i=mongo" alt="MongoDB" />
+    <img src="https://skillicons.dev/icons?i=graphql" alt="Graphql" />
+    <img src="https://skillicons.dev/icons?i=python" alt="Python" />
+    <img src="https://skillicons.dev/icons?i=django" alt="Django" />
+    <img src="https://skillicons.dev/icons?i=java" alt="Java" />
     <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
     <img src="https://skillicons.dev/icons?i=git" alt="Git" />
     <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
     <img src="https://skillicons.dev/icons?i=windows" alt="Windows" />
-    <img src="https://skillicons.dev/icons?i=postman" alt="Postman" />
   </p>
 </div>
 
