@@ -24,6 +24,7 @@
     <img src="https://skillicons.dev/icons?i=vite" alt="Vite" />
     <img src="https://skillicons.dev/icons?i=django" alt="Django" />
     <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
+    <img src="https://skillicons.dev/icons?i=graphql" alt="Node.js" />
     <img src="https://skillicons.dev/icons?i=python" alt="Python" />
     <img src="https://skillicons.dev/icons?i=java" alt="Java" />
     <img src="https://skillicons.dev/icons?i=mongo" alt="MongoDB" />
