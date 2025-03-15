@@ -11,7 +11,7 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
   <H3>About me</H3>
-  <p>My name is Pablo Joaquin Strusiat, and I am a programming student at the National Technological University in Argentina. I started developing front-end with some web applications, and I am currently expanding my knowledge in data analysis and back-end by implementing Rest-API services and databases.</p>
+  <p>My name is Pablo Joaquin Strusiat, and I am a programming student at the National Technological University in Argentina and Backend Developer | Specialized in JavaScript, TypeScript, NodeJS, and ExpressJS | Experience with REST, GraphQL, MongoDB, Elasticsearch, and MySQL | Proficiency in Windows and Linux</p>
 
  
   <h3>Technologies That I Know </h3>
